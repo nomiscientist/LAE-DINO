@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 from PIL import Image
 import os
 import concurrent.futures
